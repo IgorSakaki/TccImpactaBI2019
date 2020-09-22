@@ -7,7 +7,6 @@ This work is a case study. It aims to use unsupervised algorithms to find patter
 * Pós-Graduação Lato Sensu em Business Intelligence com Big Data
 * [faculdade Impacta](https://www.impacta.edu.br/)
 * São Paulo/2019
-* [PDF File](https://drive.google.com/file/d/1x0uc0qqaZgjJvs0dhS2XYZfcxn5JvU7x/view?usp=sharing)
 
 ## Team:
 * [Igor Sakaki da Silva](https://www.linkedin.com/in/igor-sakaki/)
